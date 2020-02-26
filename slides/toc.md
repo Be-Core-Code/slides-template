@@ -1,6 +1,6 @@
 #### Contenido módulo [MODULO]
 
-#### [TITULO DEL MODULO]
+#### [TÍTULO DEL MÓDULO]
 
 * ...
 

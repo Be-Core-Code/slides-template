@@ -49,7 +49,7 @@ Finalmente, levantamos el contenedor:
 > docker-compose up
 ```
 
-Puedes acceder a las diapositivas en `localhost:[PUERTO DEL MODULO]`. Haz los cambios que necesites en las diapositovas situadas en la carpeta
+Puedes acceder a las diapositivas en `localhost:[PUERTO]`. Haz los cambios que necesites en las diapositovas situadas en la carpeta
 `slides/` y recarga el navegador para ver el resultado.
 
 Si quieres cambiar el puerto, puedes detener los servicios con `docker-compose down`, editar el fichero 
